@@ -1,0 +1,5 @@
+package com.rk;
+
+public enum Beer {
+
+}

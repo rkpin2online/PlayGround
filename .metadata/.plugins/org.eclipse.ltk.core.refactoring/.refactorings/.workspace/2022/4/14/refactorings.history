@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;RegularExpression&apos; to &apos;RegularExpression-DS&apos;&#x0D;&#x0A;- Original element: &apos;RegularExpression&apos;&#x0D;&#x0A;- Renamed element: &apos;RegularExpression&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;RegularExpression&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=RegularExpression" name="RegularExpression-DS" references="true" stamp="1648790982659" version="1.0"/>
+</session>

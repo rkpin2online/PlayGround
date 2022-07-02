@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1647248542495_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1647248542526_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1648644058742_4" label="CJ-In28Mints" name="CJ-In28Mints">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaPrimitiveDataTypes-In28mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MultiThreading-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Concurency-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Files-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ReferanceTypes-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExceptionHandling-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/OppAgain-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Array&amp;ArrayList-In28Mints" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloWorld" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Collections" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Debugging" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FunProgramming-In28Mints" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1648644088879_5" label="CJ-DS" name="CJ-DS">
+<item elementID="=RegularExpression-DS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Enum-DS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Collection-DS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Java8Fetures" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1648644105313_6" label="CJ-HK" name="CJ-HK"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649243565395_7" label="CJ-RK" name="CJ-RK">
+<item elementID="=Collection" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649428309730_8" label="WarehouseProject" name="WarehouseProject"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1647248545212_2" label="Window Working Set" name="Aggregate for window 1647248545211"/>
+</workingSetManager>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public static void PrintBasic(List&lt;String&gt; lists)&apos; from &apos;com.rk.FPRunner.main(...)&apos; to &apos;com.rk.FPRunner&apos;&#x0D;&#x0A;- Original project: &apos;FunProgramming-In28Mints&apos;&#x0D;&#x0A;- Method name: &apos;PrintBasic&apos;&#x0D;&#x0A;- Destination type: &apos;com.rk.FPRunner&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;PrintBasic&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.rk{FPRunner.java" name="PrintBasic" replace="false" selection="182 62" stamp="1647409034870" version="1.0" visibility="1"/>
+</session>
